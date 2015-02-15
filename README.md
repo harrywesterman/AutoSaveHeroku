@@ -2,10 +2,6 @@
 Hackathon Starter
 =======================
 
-TEST van HARRY
-
-NOG een test van Harry
-
 [![Dependency Status](https://david-dm.org/sahat/hackathon-starter/status.svg?style=flat)](https://david-dm.org/sahat/hackathon-starter) [![Build Status](http://img.shields.io/travis/sahat/hackathon-starter.svg?style=flat)](https://travis-ci.org/sahat/hackathon-starter) [![Analytics](https://ga-beacon.appspot.com/UA-47447818-2/hackathon-starter?pixel)](https://github.com/igrigorik/ga-beacon) ![Version](https://img.shields.io/badge/hackathon--starter-3.0-ac96f1.svg?style=flat)
 
 **Live Demo**: http://hackathonstarter.herokuapp.com
