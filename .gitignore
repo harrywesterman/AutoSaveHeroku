@@ -12,6 +12,8 @@ pids
 logs
 results
 tmp
+.c9
+.gitignore
 
 npm-debug.log
 node_modules
